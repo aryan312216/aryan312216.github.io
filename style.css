@@ -87,6 +87,10 @@ footer{
         flex-flow: column;
        
     }
+    .Box-3{
+        display: flex;
+        flex-flow: column;
+    }
     aside{
         padding:5px;
     }
