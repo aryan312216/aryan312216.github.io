@@ -35,6 +35,11 @@ img{
 }
 .Box-2{
     display: flex;
+    width:100%;
+   
+}
+.Box-3{
+    display: flex;
     width:40%;
    
 }
